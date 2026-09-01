@@ -1,0 +1,25 @@
+{
+  "name": "top-restaurant-page",
+  "version": "1.0.0",
+  "description": "Restaurant page assignment - The Odin Project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatBushell/top-restaurant-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/MatBushell/top-restaurant-page/issues"
+  },
+  "homepage": "https://github.com/MatBushell/top-restaurant-page#readme",
+  "devDependencies": {
+    "webpack": "^5.110.2",
+    "webpack-cli": "^7.2.3"
+  }
+}
