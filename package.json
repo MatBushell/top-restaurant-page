@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/MatBushell/top-restaurant-page#readme",
   "devDependencies": {
+    "html-webpack-plugin": "^5.6.8",
     "webpack": "^5.110.2",
     "webpack-cli": "^7.2.3"
   }
