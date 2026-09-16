@@ -1,4 +1,4 @@
-import "the-new-css-reset";
+import "./reset.css";
 import "./styles.css";
 
 console.log("Working?");

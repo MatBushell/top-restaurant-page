@@ -26,8 +26,5 @@
     "webpack": "^5.110.2",
     "webpack-cli": "^7.2.3",
     "webpack-dev-server": "^6.0.0"
-  },
-  "dependencies": {
-    "the-new-css-reset": "^1.11.3"
   }
 }
