@@ -1,10 +1,14 @@
 body {
-    background-color: rebeccapurple;
+    padding: 50px;
+    background-color: rgb(255, 252, 245);
 }
 
 button {
     background-color: white;
-    border: 3px solid black;
+    border-top: 3px solid black;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    border-bottom: 0px solid black;
     border-radius: 3px;
     padding: 5px;
 }
@@ -20,4 +24,13 @@ ul {
 li {
     margin: 0px;
     list-style: none;
+}
+
+#content {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 50px 100px 100px 100px;
+    border: 3px solid black;
+
 }
