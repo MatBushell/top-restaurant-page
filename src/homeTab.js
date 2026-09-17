@@ -1,5 +1,5 @@
 export function homeTab() {
-    const content = document.getElementById("content");
+    const content = document.querySelector(".content");
     const h1 = document.createElement("h1");
     h1.textContent = "Nana's Kitchen";
     const b1 = document.createElement("br");

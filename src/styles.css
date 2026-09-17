@@ -34,7 +34,7 @@ body {
 }
 
 
-ul {
+ul.tabs {
     display: flex;
     justify-content: center;
     gap: 50px;
@@ -42,12 +42,37 @@ ul {
     padding: 0px;
 }
 
+.startersContainer{
+    padding-bottom: 50px;
+}
+
+.mainsContainer{
+    padding-bottom: 50px;
+}
+
+.desertsContainer{
+    padding-bottom: 0px;
+}
+
+.menuList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    gap: 50px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.menuItem {
+    text-align: left;
+}
+
 li {
     margin: 0px;
     list-style: none;
 }
 
-#content {
+.content {
     display: flex;
     flex-direction: column;
     text-align: center;
