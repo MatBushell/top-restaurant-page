@@ -42,15 +42,15 @@ ul.tabs {
     padding: 0px;
 }
 
-.startersContainer{
+.startersContainer {
     padding-bottom: 50px;
 }
 
-.mainsContainer{
+.mainsContainer {
     padding-bottom: 50px;
 }
 
-.desertsContainer{
+.desertsContainer {
     padding-bottom: 0px;
 }
 
@@ -80,4 +80,13 @@ li {
     border: 3px solid black;
     background-color: rgb(255, 252, 245);
 
+}
+
+.contactList {
+    flex-wrap: wrap;
+    text-align: left;
+    gap: 50px;
+    margin: 0px;
+    padding: 0px;
+    list-style: list;
 }
