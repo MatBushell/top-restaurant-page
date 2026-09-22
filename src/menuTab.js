@@ -1,6 +1,6 @@
 export function menuTab() {
-
     const content = document.querySelector(".content");
+    content.textContent = "";
     const h1 = document.createElement("h1");
     h1.textContent = "Nana's Kitchen";
     // #region starters

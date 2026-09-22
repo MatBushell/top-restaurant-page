@@ -1,5 +1,6 @@
 export function contactTab() {
     const content = document.querySelector(".content");
+    content.textContent = "";
     content.classList.add(".content");
     const h1 = document.createElement("h1");
     h1.textContent = "Nana's Kitchen";
